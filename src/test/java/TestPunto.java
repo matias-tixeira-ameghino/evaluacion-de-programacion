@@ -4,9 +4,10 @@ import org.junit.Test;
 /**
  * Created by alumno on 29/04/16.
  */
+
 public class TestPunto {
 
-
+/*
     @Test
     public void desplazarEn10X() {
         Punto punto = new Punto();
