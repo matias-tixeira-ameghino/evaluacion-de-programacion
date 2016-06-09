@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="83d465da-0f8d-42f0-837d-74044e31b5f8" name="Default" comment="Todos funcionan menos el ultimo, Todo comentado">
+    <list default="true" id="83d465da-0f8d-42f0-837d-74044e31b5f8" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Cuadrilatero.java" afterPath="$PROJECT_DIR$/src/main/java/Cuadrilatero.java" />
     </list>
     <ignored path="1.0.0.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -494,7 +493,13 @@
       <option name="project" value="LOCAL" />
       <updated>1465502225949</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Todos funcionan menos el ultimo, Todo comentado">
+      <created>1465506000796</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1465506000796</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -535,7 +540,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="todo listo para trabajar. El codigo compila, todos los test comentados" />
-    <option name="LAST_COMMIT_MESSAGE" value="todo listo para trabajar. El codigo compila, todos los test comentados" />
+    <MESSAGE value="Todos funcionan menos el ultimo, Todo comentado" />
+    <option name="LAST_COMMIT_MESSAGE" value="Todos funcionan menos el ultimo, Todo comentado" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
